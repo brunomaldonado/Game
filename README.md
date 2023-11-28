@@ -1,8 +1,8 @@
 # Game rock paper or scissors.
 -----------
 #### preview visualization
-<p align="center" width="400px">
-  <img src="./gif/game.gif" alt="animated">
+<p align="center">
+  <img src="./gif/game.gif" width="400px" alt="animated">
 </p>
 
 ```sh
